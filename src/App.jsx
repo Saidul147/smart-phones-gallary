@@ -13,7 +13,7 @@ function App() {
   return (
     <div className=' bg-white pt-5 '>
 
-    {/* <CustomCursor></CustomCursor> */}
+    <CustomCursor></CustomCursor>
     <NavBar></NavBar>
     <Hero></Hero>
     <Brand></Brand>
