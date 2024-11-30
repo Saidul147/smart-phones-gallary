@@ -28,7 +28,7 @@ export default function About() {
             <div className="about-container pt-32 pb-28 " >
                 <div className="row flex  bg-black">
                     <div className='w-1/2' style={imgDiv}>
-                    <img className='imgStyle2' src="/src/assets/axtraImage/2.webp" alt="" style={imgStyle} />
+                    <img className='imgStyle2' src="images2/2.webp" alt="" style={imgStyle} />
                     </div>
                     <div className='w-1/2 py-10 overflow-hidden  '>
                         <div className='bg-black relative z-10 pt-6 pb-10 text-white'>
