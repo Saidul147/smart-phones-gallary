@@ -15,7 +15,7 @@ export default function Hero(){
             <div className="header text-black  pr-8 flex ">
                 <h2 className="text-3xl"> DIGITAL</h2>
                 <div className="divider w-28 bg-black ml-10" style={{height:"1px"}}></div>
-                <div className=" w-full justify-items-end"><img className=" " src="/src/assets/axtraImage/6.png" alt="" /></div>
+                <div className=" w-full justify-items-end"><img className=" " src="images2/6.png" alt="" /></div>
             </div>
             <div className="head_line flex gap-10" >
                 <div className=""><h2 className=" text-black  w-2/4 " style={{fontSize:"260px",lineHeight:".82",fontWeight:"600"}}>MARK</h2></div>
@@ -32,10 +32,10 @@ export default function Hero(){
             </div>
             <div className="bg-photo flex justify-end" >
             <button className="animate-bounce w-10 h-20 border rounded-full border-black m-auto">
-               <img className="m-auto" src="/src/assets/axtraImage/arrow.webp" alt="" />
+               <img className="m-auto" src="images2/arrow.webp" alt="" />
             </button>
             <div className="bg-img relative z-10 -top-16 justify-items-end" >
-                <img  src="/src/assets/axtraImage/1.webp " style={{width:"80%"}}  alt="" />
+                <img  src="images2/1.webp " style={{width:"80%"}}  alt="" />
             </div>
             </div>
 
