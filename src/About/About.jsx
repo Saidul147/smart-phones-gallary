@@ -1,4 +1,7 @@
 import './aboutCss.css'
+import { FiArrowUpRight } from "react-icons/fi";
+
+
 
 export default function About() {
 
@@ -48,7 +51,8 @@ export default function About() {
                                 experiences that customers love our services.
                             </h2>
                             <button className='btn-style  mt-10'>
-                                <div className='m-auto'> Details</div>
+                                <div className='m-auto flex items-center'> Details {<FiArrowUpRight className='font-bold text-2xl'/>
+                                } </div>
                             </button>
                         </div>
                     </div>
