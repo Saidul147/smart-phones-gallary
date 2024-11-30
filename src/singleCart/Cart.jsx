@@ -1,6 +1,5 @@
 export default function Cart({ item ,handleCartRemove}) {
     let {image,name,price,id,color,storage} = item
-    console.log(item, 'from cart')
     return (
         <div className="bg-stone-950 rounded-md">
             <div className="card-side shadow-xl mt-5 ">

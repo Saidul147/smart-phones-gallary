@@ -28,7 +28,7 @@ export default function NavBar() {
             <div className="navbar text-black border-b fixed top-0 left-0 w-full bg-white p-5 z-50">
                 <div className="navbar-start xl:w-1/12">
                     <a href="">
-                        <img className="" style={{ width: '136px', height: '45px' }} src="/src/assets/axtraImage/logo.webp" alt="" />
+                        <img className="" style={{ width: '136px', height: '45px' }} src="public/images2/logo.webp" alt="" />
                     </a>
 
                 </div>

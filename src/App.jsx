@@ -19,6 +19,7 @@ function App() {
     <Brand></Brand>
     <About></About>
     <Service></Service>
+    
      <ShowPhones></ShowPhones>
     </div>
   )
