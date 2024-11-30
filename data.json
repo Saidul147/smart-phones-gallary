@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "iPhone 14 Pro",
-      "image": "/images/1.jpg",
+      "image": "images/1.jpg",
       "brand": "Apple",
       "storage": "128GB",
       "color": "Space Black",
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Samsung Galaxy S23",
-      "image": "/images/2.jpg",
+      "image": "images/2.jpg",
       "brand": "Samsung",
       "storage": "256GB",
       "color": "Phantom Black",
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Google Pixel 7 Pro",
-      "image": "/images/3.jpg",
+      "image": "images/3.jpg",
       "brand": "Google",
       "storage": "128GB",
       "color": "Obsidian",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "OnePlus 11",
-      "image": "/images/4.jpg",
+      "image": "images/4.jpg",
       "brand": "OnePlus",
       "storage": "256GB",
       "color": "Titan Black",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "Xiaomi 13 Pro",
-      "image": "/images/5.jpg",
+      "image": "images/5.jpg",
       "brand": "Xiaomi",
       "storage": "512GB",
       "color": "Ceramic White",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "Sony Xperia 1 V",
-      "image": "/images/6.jpg",
+      "image": "images/6.jpg",
       "brand": "Sony",
       "storage": "256GB",
       "color": "Black",
@@ -56,7 +56,7 @@
     {
       "id": 7,
       "name": "Asus ROG Phone 7",
-      "image": "/images/7.jpg",
+      "image": "images/7.jpg",
       "brand": "Asus",
       "storage": "512GB",
       "color": "Storm White",
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "name": "Motorola Edge 40 Pro",
-      "image": "/images/8.jpg",
+      "image": "images/8.jpg",
       "brand": "Motorola",
       "storage": "256GB",
       "color": "Lunar Blue",
