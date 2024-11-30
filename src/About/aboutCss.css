@@ -1,0 +1,77 @@
+.after-effect, .service{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.after-effect::after ,.service::after{
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 100%;
+    left: 60%;
+    bottom: 0;
+    background-color: rgba(128, 128, 128, 0.212);
+    z-index: 0;
+}
+.service::after{
+    left: 40%;
+}
+
+.btn-style{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* overflow: hidden; */
+    transition: color 0.1s ease-in;
+    z-index: 1;
+    /* background-color: #348775; */
+}
+
+.btn-style::before{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    border: 2px solid rgb(128, 128, 128);
+    border-radius: 50%;
+    top: 0;
+    left:0;
+    background-color: black;
+    transform: scale(0);
+    transform-origin: center;
+    transition: transform 0.6s ease;
+    z-index: -1;
+    color: white;
+}
+.btn-style::after{
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    border: 1px solid rgba(128, 128, 128, 0.507);
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+   
+}
+.btn-style:hover::before{
+    transform: scale(1);
+}
+.btn-style:hover{
+    color: #fff;
+}
+
+.imgStyle2 {
+    color: transparent;
+    width: auto;
+    height: auto;
+    translate: none;
+    rotate: none;
+    scale: none;
+    transform: translate(0px, -17.5363px);
+    will-change: transform;
+}

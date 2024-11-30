@@ -1,0 +1,7 @@
+.background-imgs {
+    background-image: url('/path-to-your-image.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
